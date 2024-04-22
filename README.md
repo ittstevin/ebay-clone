@@ -2,8 +2,6 @@
 
 ### Learn how to build this!
 
-[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS]()
-
 Come and check out my YOUTUBE channel -> https://www.youtube.com/@T.NESH
 
 **LIKE**, **SUBSCRIBE**, and **SMASH THE NOTIFICATION BELL**!!!
