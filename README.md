@@ -9,7 +9,7 @@ Come and check out my YOUTUBE channel -> https://www.youtube.com/@T.NESH
 ## App Setup (localhost)
 
 ```
-git clone https://github.com/John-Weeks-Dev/ebay-clone.git
+git@github.com:ittstevin/ebay-clone.git
 
 cp .env.example .env
 ```
